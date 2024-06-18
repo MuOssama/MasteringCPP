@@ -1,6 +1,9 @@
 # MasteringCPP
 this repo is for Mastering C++ and Modern C++ Book 
 # Topics
+# MasteringCPP
+this repo is for Mastering C++ and Modern C++ Book 
+# Topics
 # C++ Topics
 
 ## Basic Syntax and Structure
@@ -173,15 +176,47 @@ this repo is for Mastering C++ and Modern C++ Book
 - **Move Assignment Operator**
   - Syntax and usage
 
-## C++11 to C++20 Additions
-- **Various new features and improvements**
-  - Enhancements in language and library features
-
-# Modern C++ (C++11 to C++17)
+# Modern C++ (C++11 to C++20)
 
 ## C++11
 
-1. **Auto Keyword**
-   - Type inference for variables
-   ```cpp
-   auto x = 5; // x is an int
+1. Range-Based for Loop
+2. Lambda Expressions
+3. Smart Pointers
+4. Rvalue References and Move Semantics
+5. Static Assertions
+6. Variadic Templates
+7. nullptr Keyword
+8. Strongly-Typed Enums
+9. Thread Support Library
+10. Chrono Library
+11. New Standard Libraries
+
+## C++14
+
+1. Generic Lambdas
+2. Return Type Deduction
+3. Relaxed constexpr Restrictions
+4. Binary Literals
+
+## C++17
+
+1. std::optional
+2. std::variant
+3. std::any
+4. Structured Bindings
+5. if constexpr
+6. Inline Variables
+7. Filesystem Library
+
+## C++20
+
+1. Concepts
+2. Ranges
+3. Coroutines
+4. Modules
+5. Three-Way Comparison (Spaceship Operator)
+6. Calendar and Time Zone Library
+7. Enhanced constexpr
+8. Improved Lambdas
+9. New Standard Libraries
