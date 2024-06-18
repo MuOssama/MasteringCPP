@@ -23,7 +23,18 @@ this repo is for Mastering C++ and Modern C++ Book
   - Conditional statements: if, if-else, nested if, switch-case
   - Looping statements: for, while, do-while
   - Jump statements: break, continue, goto, return
-
+    
+## Pointers and Memory allocation
+  - Introduction to Pointers
+  - Pointer syntax and declaration
+  - Dereferencing pointers
+  - Pointer arithmetic
+  - Dynamic Memory Allocation (new and delete operators)
+  - Allocating memory for single variables
+  - Allocating memory for arrays
+  - Linked List
+  - Memory leaks and how to avoid them
+    
 ## Functions
 - **Function Declaration and Definition**
   - Syntax: return_type function_name(parameters)
@@ -211,12 +222,6 @@ this repo is for Mastering C++ and Modern C++ Book
 
 ## C++20
 
-1. Concepts
-2. Ranges
-3. Coroutines
-4. Modules
-5. Three-Way Comparison (Spaceship Operator)
-6. Calendar and Time Zone Library
-7. Enhanced constexpr
-8. Improved Lambdas
-9. New Standard Libraries
+1. Ranges
+2. Modules
+3. New Standard Libraries
