@@ -7,6 +7,9 @@ this repo is for Mastering C++ and Modern C++ Book
 # C++ Topics
 
 ## Basic Syntax and Structure
+- **What's Programming language**
+- **First program**
+  - Compilation Hello World
 - **Variables and Data Types**
   - Primitive types: int, char, float, double, bool
   - Derived types: arrays, pointers, references
