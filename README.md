@@ -24,20 +24,25 @@ this repo is for Mastering C++ and Modern C++ Book
   - Conditional operator: ?:
 - **Control Structures**
   - Conditional statements: if, if-else, nested if, switch-case
-  - Looping statements: for, while, do-while
+  - Looping statements: for, for range, while, do-while
   - Jump statements: break, continue, goto, return
     
-## Pointers and Memory allocation
-  - Introduction to Pointers
-  - Pointer syntax and declaration
-  - Dereferencing pointers
+## Memory Management and Pointers
+- **Introduction to Pointers**
+  - Pointer declaration, initialization, and dereferencing
   - Pointer arithmetic
-  - Dynamic Memory Allocation (new and delete operators)
+  - References and reference variables
+- **Dynamic Memory Allocation**
+  - new and delete operators
   - Allocating memory for single variables
   - Allocating memory for arrays
   - Linked List
   - Memory leaks and how to avoid them
-    
+- **Smart Pointers**
+  - `std::unique_ptr`
+  - `std::shared_ptr`
+  - `std::weak_ptr`
+  - 
 ## Functions
 - **Function Declaration and Definition**
   - Syntax: return_type function_name(parameters)
@@ -54,6 +59,18 @@ this repo is for Mastering C++ and Modern C++ Book
 - **Recursive Functions**
   - Base case and recursive case
   - Examples: factorial, Fibonacci sequence
+  - 
+## Preprocessor Directives
+- **Macros**
+  - #define, #undef, #ifdef, #ifndef, #if, #else, #elif, #endif
+- **Conditional Compilation**
+  - Conditional compilation directives
+    
+## Compilation Process
+- Preprocessing
+- Compilation
+- Assembly
+- Linking
 
 ## Object-Oriented Programming (OOP)
 - **Classes and Objects**
@@ -142,19 +159,6 @@ this repo is for Mastering C++ and Modern C++ Book
   - Reading from and writing to files
   - Binary file operations
 
-## Memory Management
-- **Pointers and References**
-  - Pointer declaration, initialization, and dereferencing
-  - Pointer arithmetic
-  - References and reference variables
-- **Dynamic Memory Allocation**
-  - new and delete operators
-  - Dynamic arrays
-- **Smart Pointers**
-  - `std::unique_ptr`
-  - `std::shared_ptr`
-  - `std::weak_ptr`
-
 ## Multithreading and Concurrency
 - **Thread Management**
   - Creating and managing threads
@@ -164,12 +168,6 @@ this repo is for Mastering C++ and Modern C++ Book
   - Locking mechanisms: std::lock_guard, std::unique_lock
 - **Condition Variables**
   - Synchronization with std::condition_variable
-
-## Preprocessor Directives
-- **Macros**
-  - #define, #undef, #ifdef, #ifndef, #if, #else, #elif, #endif
-- **Conditional Compilation**
-  - Conditional compilation directives
 
 ## Namespaces
 - **Using and Defining Namespaces**
