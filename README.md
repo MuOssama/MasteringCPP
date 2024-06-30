@@ -98,21 +98,15 @@ this repo is for Mastering C++ and Modern C++ Book
 - **Operator Overloading**
   - Overloading unary and binary operators
   - Overloading operators using member and friend functions
-
-## Advanced OOP Concepts
-- **Virtual Functions and Abstract Classes**
-  - Virtual functions
-  - Pure virtual functions
-  - Abstract classes
-- **Multiple Inheritance**
-  - Syntax and usage
-  - Diamond problem and virtual inheritance
-- **Friend Functions and Classes**
-  - Friend functions
-  - Friend classes
 - **Static Members**
   - Static member variables and functions
   - Class-level data and behavior
+- **Multiple Inheritance**
+  - Syntax and usage
+  - Diamond problem and virtual inheritance
+- **Multiple Inheritance**
+  - Syntax and usage
+  - Diamond problem and virtual inheritance
 
 ## Templates
 - **Function Templates**
