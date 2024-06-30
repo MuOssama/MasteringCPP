@@ -22,6 +22,7 @@ this repo is for Mastering C++ and Modern C++ Book
   - Assignment operators: =, +=, -=, *=, /=, %=, &=, |=, ^=, <<=, >>=
   - unary operators (Increment and decrement): ++, --
   - ternay operator: ?:
+  - operator overloading
 - **Control Structures**
   - Conditional statements: if, if-else, nested if, switch-case
   - Looping statements: for, for range, while, do-while
