@@ -21,7 +21,7 @@ this repo is for Mastering C++ and Modern C++ Book
   - Bitwise operators: &, |, ^, ~, <<, >>
   - Assignment operators: =, +=, -=, *=, /=, %=, &=, |=, ^=, <<=, >>=
   - unary operators (Increment and decrement): ++, --
-  - ternay operator: ?:
+  - ternary  operator: ?:
   - operator overloading
 - **Control Structures**
   - Conditional statements: if, if-else, nested if, switch-case
