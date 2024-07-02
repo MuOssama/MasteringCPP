@@ -1,0 +1,18 @@
+Project Requirements: Sign-Up Application
+
+We are developing a user registration application to store user names and ages. 
+We will use a struct to represent each user, stored in an array (limited to 100 records).
+Users can add records and retrieve them by ID.
+
+Steps to Complete:
+1-Include necessary headers.
+2-Define a struct for user records (Person), and declare an array of this type (Person records[100]).
+3-Implement functions:
+ A-void AddRecord(const std::string& name, int age): Adds a new record.
+ B-FetchRecord(int id): Retrieves a record by ID.
+ C-Quit().
+4-In main(), use a loop to present options (Add Record, Fetch Record, Quit).
+Handle user input using a switch statement:
+Case 1: Prompt for name and age, then call AddRecord().
+Case 2: Prompt for ID, then call FetchRecord() and display the result.
+Case 3: Exit the loop.
