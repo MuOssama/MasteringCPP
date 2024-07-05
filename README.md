@@ -27,10 +27,10 @@ this repo is for Mastering C++ and Modern C++ Book
   - Looping statements: for, for range, while, do-while
   - Jump statements: break, continue, goto, return
     
-## Memory Management and Pointers
+## Pointers and  Memory Management 
 - **Introduction to Pointers**
   - Pointer declaration, initialization, and dereferencing
-  - Pointer arithmetic
+  - Operations on Pointers
   - References and reference variables
 - **Dynamic Memory Allocation**
   - new and delete operators
