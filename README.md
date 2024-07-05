@@ -34,8 +34,7 @@ this repo is for Mastering C++ and Modern C++ Book
   - References and reference variables
 - **Dynamic Memory Allocation**
   - new and delete operators
-  - Allocating memory for single variables
-  - Allocating memory for arrays
+  - Allocating memory for single variables and arrays
   - Linked List
   - Memory leaks and how to avoid them
 - **Smart Pointers**
