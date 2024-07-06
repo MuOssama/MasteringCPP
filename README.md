@@ -46,7 +46,6 @@ this repo is for Mastering C++ and Modern C++ Book
 - **Function Declaration and Definition**
   - Syntax: return_type function_name(parameters)
   - Function prototypes
-  - Inline functions
 - **Parameter Passing**
   - Pass-by-value
   - Pass-by-reference
@@ -58,7 +57,7 @@ this repo is for Mastering C++ and Modern C++ Book
 - **Recursive Functions**
   - Base case and recursive case
   - Examples: factorial, Fibonacci sequence
-  - 
+    
 ## Preprocessor Directives
 - **Macros**
   - #define, #undef, #ifdef, #ifndef, #if, #else, #elif, #endif
