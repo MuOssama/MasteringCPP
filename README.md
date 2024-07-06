@@ -41,7 +41,7 @@ this repo is for Mastering C++ and Modern C++ Book
   - `std::unique_ptr`
   - `std::shared_ptr`
   - `std::weak_ptr`
-  - 
+    
 ## Functions
 - **Function Declaration and Definition**
   - Syntax: return_type function_name(parameters)
