@@ -1,5 +1,5 @@
 # MasteringCPP
-this repo is for Mastering C++ and Modern C++ Book 
+This Repo is for Mastering C++ and Modern C++ Book 
 # Topics
 # MasteringCPP
 this repo is for Mastering C++ and Modern C++ Book 
@@ -57,7 +57,7 @@ this repo is for Mastering C++ and Modern C++ Book
 - **Recursive Functions**
   - Base case and recursive case
   - Examples: factorial, Fibonacci sequence
-    
+  **Final project**
 ## Preprocessor Directives
 - **Macros**
   - #define, #undef, #ifdef, #ifndef, #if, #else, #elif, #endif
@@ -69,6 +69,7 @@ this repo is for Mastering C++ and Modern C++ Book
 - Compilation
 - Assembly
 - Linking
+- Compiling many source files
 
 ## Object-Oriented Programming (OOP)
 - **Classes and Objects**
@@ -172,13 +173,6 @@ this repo is for Mastering C++ and Modern C++ Book
   - Basic lambda syntax
   - Capturing variables by value and reference
   - Lambda with parameters and return type
-
-## Move Semantics and Rvalue References
-- **Move Constructors**
-  - Syntax and usage
-  - Benefits of move constructors
-- **Move Assignment Operator**
-  - Syntax and usage
 
 # Modern C++ (C++11 to C++20)
 
