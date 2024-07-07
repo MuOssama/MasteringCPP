@@ -174,12 +174,6 @@ this repo is for Mastering C++ and Modern C++ Book
   - Capturing variables by value and reference
   - Lambda with parameters and return type
 
-## Move Semantics and Rvalue References
-- **Move Constructors**
-  - Syntax and usage
-  - Benefits of move constructors
-- **Move Assignment Operator**
-  - Syntax and usage
 
 # Modern C++ (C++11 to C++20)
 
