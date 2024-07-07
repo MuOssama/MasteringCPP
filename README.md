@@ -174,7 +174,6 @@ this repo is for Mastering C++ and Modern C++ Book
   - Capturing variables by value and reference
   - Lambda with parameters and return type
 
-
 # Modern C++ (C++11 to C++20)
 
 ## C++11
