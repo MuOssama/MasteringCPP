@@ -69,6 +69,7 @@ this repo is for Mastering C++ and Modern C++ Book
 - Compilation
 - Assembly
 - Linking
+- Compiling many source files
 
 ## Object-Oriented Programming (OOP)
 - **Classes and Objects**
