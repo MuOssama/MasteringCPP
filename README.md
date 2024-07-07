@@ -57,7 +57,6 @@ this repo is for Mastering C++ and Modern C++ Book
   - Pass-by-value
   - Pass-by-reference
   - Pass-by-pointer
-  - Default arguments
 - **Final project Linked List**
   -	Append element
   - Insert element
