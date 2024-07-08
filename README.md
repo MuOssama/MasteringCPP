@@ -66,7 +66,6 @@ this repo is for Mastering C++ and Modern C++ Book
 - **Macros**
   - #define, #undef
   - Function-like Macro
-  - Function-like Macro
 - **Conditional Compilation**
   - #ifdef, #ifndef, #if, #else, #elif, #endif
   - Conditional compilation directives
