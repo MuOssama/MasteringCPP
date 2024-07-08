@@ -64,10 +64,13 @@ this repo is for Mastering C++ and Modern C++ Book
   -	Print element 
 ## Preprocessor Directives
 - **Macros**
-  - #define, #undef, #ifdef, #ifndef, #if, #else, #elif, #endif
-- **Function-like Macro**
+  - #define, #undef
+  - Function-like Macro
+  - Function-like Macro
 - **Conditional Compilation**
+  - #ifdef, #ifndef, #if, #else, #elif, #endif
   - Conditional compilation directives
+- **File Guards**
     
 ## Compilation Process
 - Preprocessing
