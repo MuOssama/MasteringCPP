@@ -65,7 +65,7 @@ this repo is for Mastering C++ and Modern C++ Book
 ## Preprocessor Directives
 - **Macros**
   - #define, #undef, #ifdef, #ifndef, #if, #else, #elif, #endif
-- **Functionc-like Macro**
+- **Function-like Macro**
 - **Conditional Compilation**
   - Conditional compilation directives
     
