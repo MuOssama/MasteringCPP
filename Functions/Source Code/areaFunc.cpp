@@ -17,7 +17,7 @@ int main(){
 float calc_area(int length, string shape){
     if(shape == "circle"){
         double pi = 3.14159265359;
-        cout<<"\nthe area of circle is: "<<pi*length;
+        cout<<"\nthe area of circle is: "<<pi*length*length;
         return pi*length;
     }
     else if(shape == "square"){
