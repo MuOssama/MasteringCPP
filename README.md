@@ -122,7 +122,7 @@ this repo is for Mastering C++ and Modern C++ Book
   - Template classes
   - Member function templates
 - **Template Specialization**
-  - Full and partial specialization
+  - Full and partial 
 
 ## Standard Template Library (STL)
 - **Containers**
