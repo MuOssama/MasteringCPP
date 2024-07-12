@@ -97,8 +97,8 @@ this repo is for Mastering C++ and Modern C++ Book
   - Compile-time polymorphism: function overloading, operator overloading
   - Runtime polymorphism: virtual functions, pure virtual functions, abstract classes
 - **Encapsulation**
-  - Data hiding and abstraction
-  - Accessor and mutator functions
+  - Data hiding
+  - Setter and Getter (Accessor and mutator functions)
 - **Abstraction**
   - Abstract classes and interfaces
 - **Operator Overloading**
