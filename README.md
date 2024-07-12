@@ -111,7 +111,6 @@ this repo is for Mastering C++ and Modern C++ Book
   - Syntax and usage
   - Diamond problem and virtual inheritance
 - **Multiple Inheritance**
-  - Syntax and usage
 
 
 ## Templates
