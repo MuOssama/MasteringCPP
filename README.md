@@ -101,6 +101,7 @@ this repo is for Mastering C++ and Modern C++ Book
   - Setter and Getter (Accessor and mutator functions)
 - **Abstraction**
   - Abstract classes and interfaces
+  - Virtual function and pure virtual function
 - **Operator Overloading**
   - Overloading unary and binary operators
   - Overloading operators using member and friend functions
