@@ -97,8 +97,8 @@ this repo is for Mastering C++ and Modern C++ Book
   - Compile-time polymorphism: function overloading, operator overloading
   - Runtime polymorphism: virtual functions, pure virtual functions, abstract classes
 - **Encapsulation**
-  - Data hiding and abstraction
-  - Accessor and mutator functions
+  - Data hiding
+  - Setter and Getter (Accessor and mutator functions)
 - **Abstraction**
   - Abstract classes and interfaces
 - **Operator Overloading**
@@ -107,9 +107,6 @@ this repo is for Mastering C++ and Modern C++ Book
 - **Static Members**
   - Static member variables and functions
   - Class-level data and behavior
-- **Multiple Inheritance**
-  - Syntax and usage
-  - Diamond problem and virtual inheritance
 - **Multiple Inheritance**
   - Syntax and usage
   - Diamond problem and virtual inheritance
@@ -122,7 +119,7 @@ this repo is for Mastering C++ and Modern C++ Book
   - Template classes
   - Member function templates
 - **Template Specialization**
-  - Full and partial specialization
+  - Full and partial 
 
 ## Standard Template Library (STL)
 - **Containers**
