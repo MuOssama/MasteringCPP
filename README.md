@@ -1,5 +1,5 @@
 # MasteringCPP
-This Repo is for Mastering C++ and Modern C++ Book 
+This Repo is for Mastering C++ and Modern C++ Book  
 # Topics
 # MasteringCPP
 this repo is for Mastering C++ and Modern C++ Book 
