@@ -217,3 +217,7 @@ this repo is for Mastering C++ and Modern C++ Book
 1. Ranges
 2. Modules
 3. New Standard Libraries
+# Licenses
+- C++20: valid_license_key_1
+- C++17: valid_license_key_2
+- C++11: valid_license_key_3
