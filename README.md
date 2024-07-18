@@ -108,8 +108,8 @@ this repo is for Mastering C++ and Modern C++ Book
 - **Static Members**
   - Static member variables and functions
   - Class-level data and behavior
-- **Rule of 3**
-
+- **Rule**
+- Rule of Three
 
 ## Templates
 - **Function Templates**
