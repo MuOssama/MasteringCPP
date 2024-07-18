@@ -168,14 +168,13 @@ this repo is for Mastering C++ and Modern C++ Book
 - **Condition Variables**
   - Synchronization with std::condition_variable
 
-## Namespaces
+## Others
 - **Using and Defining Namespaces**
   - Defining a namespace
   - Using a namespace
   - Nested namespaces
 
-## Lambda Expressions
-- **Syntax and Usage**
+- **Lambda Expressions**
   - Basic lambda syntax
   - Capturing variables by value and reference
   - Lambda with parameters and return type
