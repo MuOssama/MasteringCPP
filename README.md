@@ -111,7 +111,7 @@ this repo is for Mastering C++ and Modern C++ Book
 - **Multiple Inheritance**
   - Diamond problem and virtual inheritance
 - **Rule**
-- Rule of Three
+  - Rule of Three
 
 ## Templates
 - **Function Templates**
