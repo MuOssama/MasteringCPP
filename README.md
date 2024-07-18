@@ -110,7 +110,7 @@ this repo is for Mastering C++ and Modern C++ Book
   - Class-level data and behavior
 - **Multiple Inheritance**
   - Diamond problem and virtual inheritance
-- **Rule**
+- **Rules**
   - Rule of Three
 
 ## Templates
