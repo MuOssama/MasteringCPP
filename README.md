@@ -108,6 +108,8 @@ this repo is for Mastering C++ and Modern C++ Book
 - **Static Members**
   - Static member variables and functions
   - Class-level data and behavior
+- **Multiple Inheritance**
+  - Diamond problem and virtual inheritance
 - **Rule**
 - Rule of Three
 
