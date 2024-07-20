@@ -109,6 +109,7 @@ this repo is for Mastering C++ and Modern C++ Book
   - Diamond problem and virtual inheritance
 - **Rules**
   - Rule of Three
+- **Final project Tic-Tac-Toe**
 
 ## Templates
 - **Function Templates**
