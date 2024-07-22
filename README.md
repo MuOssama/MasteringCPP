@@ -110,7 +110,7 @@ this repo is for Mastering C++ and Modern C++ Book
 - **Operator Overloading**
   - unary Overloading
   - binary Overloading
-  - extraction adn insertion Overloading
+  - extraction and insertion Overloading
 - **Rules**
   - Rule of Three
 - **Final project Tic-Tac-Toe**
