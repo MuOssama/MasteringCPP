@@ -170,6 +170,8 @@ this repo is for Mastering C++ and Modern C++ Book
 - **Condition Variables**
   - Synchronization with std::condition_variable
 
+## GDB Debbuger
+
 ## Others
 - **Using and Defining Namespaces**
   - Defining a namespace
