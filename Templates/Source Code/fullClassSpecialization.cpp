@@ -5,7 +5,7 @@ class Animal{
     T name;
     U age;
    public:
-   //constructor
+   //constructor 
    Animal(){cout<<"datatypes: all\n";}
    //geters and setters for encapsulation 
    T getName(){return name;}
