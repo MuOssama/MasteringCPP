@@ -1,4 +1,4 @@
-#include<iostream> 
+#include<iostream>  
 using namespace std;
 template<typename T, typename U>
 class Animal{
