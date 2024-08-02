@@ -122,8 +122,6 @@
 - **Class Templates**
   - Template classes
   - Member function templates
-- **Template Specialization**
-  - Full and partial 
 
 ## Standard Template Library (STL)
 - **Containers**
