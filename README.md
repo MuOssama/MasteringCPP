@@ -1,7 +1,7 @@
 # MasteringCPP
 ***This repo is for Mastering C++ and Modern C++ Book*** 
 # Topics 
-
+ 
 # C++ Topics
 ## Basic Syntax and Structure
 - **What's Programming language**
@@ -167,37 +167,6 @@
   - Locking mechanisms: std::lock_guard, std::unique_lock
 - **Condition Variables**
   - Synchronization with std::condition_variable
-
-## GDB Debugger
-
-- **Introduction to Debugging**
-  - Importance and methods.
-
-- **Common Debugging Techniques**:
-  - Print Debugging
-  - Interactive Debugging
-  - Log Files
-
-- **Command-line Debuggers: GDB**
-  - Basic GDB Commands
-  - Starting GDB
-  - Running a Program
-
-- **Breakpoints**
-  - Setting Breakpoints
-  - Conditional Breakpoints
-
-- **Controlling Execution**
-  - Continuing Execution
-  - Stepping Through Code
-
-- **Examining Program State**
-  - Viewing Variable Values
-  - Inspecting the Call Stack
-
-- **Modifying Program State**
-  - Changing Variable Values
-
 
 ## Others
 - **Using and Defining Namespaces**
